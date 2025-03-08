@@ -4,3 +4,5 @@ For install dependencies
 for start project 
 
  - npm run start:dev
+
+api url - http://localhost:3000/api#/
